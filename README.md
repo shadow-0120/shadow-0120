@@ -7,7 +7,7 @@ Currently honing my skills in **React** and **Tailwind CSS**, while working on w
 
 ## 💻 What I Do
 - 🎨 **Front-End Development**: HTML, CSS, JavaScript, React, Tailwind CSS
-- **Back-End Development**: Firebase, ExpressJS
+-     **Back-End Development**: Firebase, ExpressJS
 - 🎯 **Freelance Thumbnail Designer**: Creating engaging and eye-catching designs  
 - 📖 **Digital Economy Student**: Studying at ESGEN, Algiers  
 - ✍️ **Aspiring Content Creator**: Lifestyle & Self-Development content  
@@ -32,7 +32,10 @@ A **modern educational platform** with a responsive dashboard, designed for acce
 
 **Tech Used:**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
+
+
 
 ---
 
@@ -42,7 +45,9 @@ A sleek **community/club website** with bold visuals and engaging layout.
 
 **Tech Used:**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
+
 
 ---
 
