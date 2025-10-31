@@ -1,4 +1,4 @@
-# Hi there, I'm Shadow! 👋
+# Hi there, I'm Koussai! 👋
 
 I'm a passionate **Front-End Developer in the making** 🚀.  
 Currently honing my skills in **React** and **Tailwind CSS**, while working on web projects and experimenting with modern UI/UX practices.
@@ -7,7 +7,7 @@ Currently honing my skills in **React** and **Tailwind CSS**, while working on w
 
 ## 💻 What I Do
 - 🎨 **Front-End Development**: HTML, CSS, JavaScript, React, Tailwind CSS
--     **Back-End Development**: Firebase, ExpressJS
+-    **Back-End Development**: Firebase, ExpressJS
 - 🎯 **Freelance Thumbnail Designer**: Creating engaging and eye-catching designs  
 - 📖 **Digital Economy Student**: Studying at ESGEN, Algiers  
 - ✍️ **Aspiring Content Creator**: Lifestyle & Self-Development content  
