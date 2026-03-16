@@ -174,7 +174,7 @@ Bold community website with striking visuals and an engaging layout.
 ### ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=shadow-0120&icon=5&color=6)](https://visitcount.itsvg.in)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
 
