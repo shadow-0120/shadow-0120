@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- OPEN TO WORK BADGE -->
-[![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Work-Available%20for%20Freelance%20%26%20Internship-4ade80?style=for-the-badge&labelColor=1a1a2e)](mailto:koussai@example.com)
+[![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Work-Available%20for%20Freelance%20%26%20Internship-4ade80?style=for-the-badge&labelColor=1a1a2e)](mailto:koussaiimahdi@gmail.com)
 
 </div>
 
