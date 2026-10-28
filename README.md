@@ -16,7 +16,7 @@
 
 <div align="center">
 
-### 👋 Hey, I'm Koussai — a Full-Stack Developer from Algiers 🇩🇿
+###  Hey, I'm Koussai — a Full-Stack Developer from Algiers 🇩🇿
 
 </div>
 
@@ -25,74 +25,11 @@
 > Currently studying **Digital Economy** at ESGEN, Algiers, while shipping projects, growing my freelance brand, and leveling up every single day. 🚀
 > I believe great UI is not just seen — it's *felt*.
 
----
 
-## 🏗️ Currently Building
 
-```
-🎯  3D Landing Pages — pushing WebGL & Three.js to craft
-    immersive, scroll-driven visual experiences that stop the scroll.
-```
+## Tech Stack
 
----
-
-## 🚀 Featured Projects
-
-> 🔧 *More projects dropping soon — stay tuned!*
-
----
-
-### 🏨 Hotel Landing Page
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-kahina--vert.vercel.app-6366f1?style=for-the-badge)](https://kahina-vert.vercel.app/)
-
-Elegant, responsive hotel landing page with smooth animations and a premium UI feel.
-
-**Tech:** `React` `Tailwind CSS`
-
----
-
-### 🎓 Education Platform — SBS School
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-sbsschool.vercel.app-6366f1?style=for-the-badge)](https://sbsschool-lilac.vercel.app/)
-
-A full-featured educational dashboard designed for accessibility, usability, and performance.
-
-**Tech:** `React` `Tailwind CSS` `Firebase`
-
----
-
-### 🃏 Joker Club Website
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-joker--main.vercel.app-6366f1?style=for-the-badge)](https://joker-main.vercel.app/)
-
-Bold community website with striking visuals and an engaging layout.
-
-**Tech:** `React` `Tailwind CSS` `Firebase`
-
----
-
-### 🔮 Project #4 — Coming Soon
-> *Under construction — something exciting is loading...*
-
-**Tech:** `TBD`
-
----
-
-### 🔮 Project #5 — Coming Soon
-> *Under construction — something exciting is loading...*
-
-**Tech:** `TBD`
-
----
-
-### 🔮 Project #6 — Coming Soon
-> *Under construction — something exciting is loading...*
-
-**Tech:** `TBD`
-
----
-
-## 💻 Tech Stack
-
-### 🎨 Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
@@ -118,31 +55,10 @@ Bold community website with striking visuals and an engaging layout.
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white)
 
----
 
-## 🌱 What I'm Learning & Growing Into
 
-- 🧩 Advanced **Three.js** & **WebGL** for immersive 3D web experiences
-- ⚡ **Next.js** App Router & full-stack patterns
-- 🎬 **GSAP** scroll-triggered animations & **Framer Motion** advanced gestures
-- 🧠 System design & scalable back-end architecture
-- 🎨 UI/UX design theory & motion design principles
 
----
-
-## 🎯 2025 Goals
-
-| Goal | Status |
-|------|--------|
-| 🏢 Land a job or internship | 🔥 In Progress |
-| 💼 Grow freelance client base | 🔥 In Progress |
-| 🌍 Launch personal product/startup | 🧠 Planning |
-| 📂 Complete 6-project portfolio | 🔧 Building |
-| ✍️ Content creation & personal brand | 🎬 Active |
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -156,7 +72,7 @@ Bold community website with striking visuals and an engaging layout.
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -171,7 +87,7 @@ Bold community website with striking visuals and an engaging layout.
 
 <div align="center">
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
